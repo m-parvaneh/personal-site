@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mparvaneh.ca'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Matthew Parvaneh'
 theme = 'nightfall'
 
 [params]
@@ -11,19 +11,23 @@ hostname = "localhost"
 [[params.social]]
 key = 0
 name = "github"
-url = "https://github.com/gohugoio"
+icon = "fa-brands fa-github"
+url = "https://github.com/m-parvaneh"
 
 [[params.social]]
 key = 1
-name = "twitter"
+name = "resume"
+icon = "fa-solid fa-file"
 url = "https://www.example.com"
 
 [[params.social]]
 key = 2
 name = "linkedin"
-url = "https://www.example.com"
+icon = "fa-brands fa-linkedin"
+url = "https://www.linkedin.com/in/matthewparvaneh/"
 
 [[params.social]]
 key = 3
 name = "email"
-url = "mailto:email@example.com"
+icon = "fa-solid fa-envelope"
+url = "mailto:mattparvaneh@outlook.com"
