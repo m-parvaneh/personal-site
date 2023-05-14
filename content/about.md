@@ -12,3 +12,5 @@ Hi everyone! My name is Matthew Parvaneh, and I'm in my third-year of studies in
 
 Currently, I'm working as an Associate Software Engineer at Flipp. I work on the Content Collection team, making use of a stack that is centered around Ruby on Rails, AWS, and Apache Kafka.
 
+At the moment, I am also very interested in Machine Learning, particularly regarding the application of its many tools to clinical/healthcare settings.
+
